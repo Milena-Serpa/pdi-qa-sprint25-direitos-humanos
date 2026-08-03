@@ -45,6 +45,7 @@ Diante da estratégia atual de validação de interface e regras de negócio, a 
 │  - Anexo de Prints e Evidências Visuais (PASS / FAIL)     │
 │  - Registro de Defeitos e Inconsistências de Requisito    │
 └───────────────────────────────────────────────────────────┘
+```
 ---
 
 ## 👥 4. Instruções para a Equipe de Testes (Estagiários)
@@ -66,3 +67,4 @@ Diante da estratégia atual de validação de interface e regras de negócio, a 
 │       ├── CHARTER_HU123.md
 │       └── CHARTER_HU124.md
 └── README.md
+```
